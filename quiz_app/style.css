@@ -1,0 +1,39 @@
+h1,
+h2 {
+  color: rgb(0, 68, 11);
+}
+
+table {
+  width: 80%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+}
+
+th,
+td {
+  padding: 10px;
+  text-align: left;
+}
+
+button {
+  background-color: rgb(172, 255, 164);
+  color: black;
+  border: none;
+  padding: 5px 10px;
+  text-align: center;
+  margin: 4px 2px;
+}
+
+button:hover {
+  background-color: rgb(134, 255, 123);
+}
+
+body {
+  background-color: rgb(231, 231, 231);
+}
